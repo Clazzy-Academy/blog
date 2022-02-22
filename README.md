@@ -1,2 +1,2 @@
 # blog
-Let's read more about tech with Clazzy! 
+Jom belajar teknologi dengan Clazzy!
